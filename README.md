@@ -26,3 +26,5 @@ This Python script utilizes Optical Character Recognition (OCR) techniques to re
    - Prints the extracted text, providing information about the medicine, dosage, or any relevant details.
 
 This script can be useful for automating the extraction of textual information from medicine boxes, aiding in tasks such as inventory management or digitizing medication details. Adjustments can be made based on specific use cases or additional image processing techniques for improved accuracy.
+
+![Image of the codes output](https://github.com/ByteTrooper/implementing_tesseract_ocr/blob/main/text%20output%20after%20performing%20tesseract%20ocr.jpg)
